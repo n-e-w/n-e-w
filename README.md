@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills 
+### Skills, Languages & Frameworks I use or am interested 
 <div align="center"> 
 <img style="margin: 10px" src="https://forums.fast.ai/uploads/default/original/2X/b/b9ae8035630922dd8a0f9c3f4c6a599a2c5c7fa4.png" alt="Git" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /> 
