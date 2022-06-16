@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" height="25" />
 <img style="margin: 10px" src="https://forums.fast.ai/uploads/default/original/2X/b/b9ae8035630922dd8a0f9c3f4c6a599a2c5c7fa4.png" alt="fastai" height="25" />
-<img style="margin: 10px" src=" https://assets-global.website-files.com/5db99670374d1d829291af4f/616f0f70b3580da1e80cb249_huggingface.jpg" alt="hf" height="25" />
+<img style="margin: 10px" src="https://assets-global.website-files.com/5db99670374d1d829291af4f/616f0f70b3580da1e80cb249_huggingface.jpg" alt="hf" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
