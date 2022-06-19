@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hf" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="Jax" height="25" />  
 <img style="margin: 10px" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
