@@ -18,6 +18,7 @@ blla
 - ⚡ Fun fact: ...
 -->
 
+ 
 ### Languages, Frameworks & Tools of Interest
 <div align="center"> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" height="25" />
@@ -25,6 +26,7 @@ blla
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/700578/178141790-df0712ac-0d63-46a0-9ebb-95882abb6b80.png" alt="xgboost" height="25" />
 <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hf" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /> 
+ <img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png?20180808062052)" alt="sklearn" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="Jax" height="25" />  
 <img style="margin: 10px" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="25" /> 
