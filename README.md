@@ -30,8 +30,7 @@ blla
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="Jax" height="25" />  
 <img style="margin: 10px" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
 <img style="margin: 10px" src="https://content.wolfram.com/uploads/sites/43/2018/12/spikey-wolfram-logo.png" alt="Wolfram" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
