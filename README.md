@@ -32,7 +32,7 @@ blla
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
 <img style="margin: 10px" src="https://content.wolfram.com/uploads/sites/43/2018/12/spikey-wolfram-logo.png" alt="Wolfram" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="25" /> 
+<img style="margin: 10px" src="http://i.imgur.com/tuFExZl.png" alt="Haskell" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />  
