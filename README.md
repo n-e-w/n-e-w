@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 <!--
-**n-e-w/n-e-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**n-e-w/n-e-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears.
 
 Here are some ideas to get you started:
 blla
