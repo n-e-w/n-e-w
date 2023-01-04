@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpapers.hector.me/wavey/2.1/desktop/Wavey%20Moon.jpg" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/profile_banners/1525242040446881792/1665281579/1500x500" align="center" style="width: 100%" />
 
 ### Hi there 👋
 
