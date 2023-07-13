@@ -17,7 +17,10 @@ blla
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Free as in Freedom
+<div align="center">
+<img  src="https://static.fsf.org/nosvn/associate/crm/1242691.png">
+</div>
  
 ### Languages, Frameworks & Tools of Interest
 <div align="center"> 
