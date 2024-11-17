@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://catherinemayoauthor.com/wp-content/uploads/2019/11/1.-Ithaki-with-Mt-Neriton-from-the-southwest.jpg](https://catherinemayoauthor.com/wp-content/uploads/2019/11/1.-Ithaki-with-Mt-Neriton-from-the-southwest.jpg)" align="center" style="width: 100%" />
+<img src="https://catherinemayoauthor.com/wp-content/uploads/2019/11/1.-Ithaki-with-Mt-Neriton-from-the-southwest.jpg" align="center" style="width: 100%" />
 
 ### Hi there 👋
 
